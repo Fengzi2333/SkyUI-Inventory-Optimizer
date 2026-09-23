@@ -36,7 +36,7 @@ replica of the same member reads and writes, executed by compiled code instead.
 - [CMake](https://cmake.org/)
 - [vcpkg](https://vcpkg.io/en/)
 - [Visual Studio Community 2022](https://visualstudio.microsoft.com/vs/community/)
-- [CommonLibSSE-NG](https://github.com/CharmedBaryon/CommonLibSSE-NG)
+- [CommonLibSSE-NG](https://github.com/alandtse/CommonLibSSE-NG)
 
 #### ***CommonLibSSE-NG***
 
