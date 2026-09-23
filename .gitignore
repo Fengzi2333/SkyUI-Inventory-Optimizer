@@ -2,6 +2,7 @@
 /extern/
 /out/
 /build
+/dist
 /.vscode
 /vcpkg_installed/
 /TracyLog/
